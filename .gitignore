@@ -5,6 +5,7 @@
 *.bak
 *.swp
 Thumbs.db
+vendor
 
 # wordpress specific
 wp-config.php
@@ -40,7 +41,6 @@ wp-content/mysql.sql
 /wp-comments-post.php
 /wp-commentsrss2.php
 /wp-config-sample.php
-/wp-config.php
 /wp-cron.php
 /wp-feed.php
 /wp-links-opml.php
@@ -58,7 +58,6 @@ wp-content/mysql.sql
 /xmlrpc.php
 /wp-admin
 /wp-includes
-/wp-content/mysql.sql
 /wp-content/index.php
 /wp-content/themes/twentyten
 /wp-content/themes/index.php
